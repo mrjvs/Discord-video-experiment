@@ -1,8 +1,9 @@
-# Discord bot video
+# CURRENTLY BROKEN
+## Discord bot video
 Video for discord bot proof of concept.
 This is an experiment done by the [Cascadebot](https://github.com/CascadeBot) team.
 
-**Warning:** Not made to be used in production. Only use for testing.
+This accidental feature/bug has been patched by discord in the latest client update. the client still receives video but just doesn't show it anymore.
 
 ## features
  - Playing vp8 video in a voice channel (not `go live`, but webcam video)
